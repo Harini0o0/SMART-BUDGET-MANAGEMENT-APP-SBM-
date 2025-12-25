@@ -1,0 +1,8 @@
+{
+  "name": "SMART BUDGET MANAGEMENT APP (SBM)",
+  "description": "A luxury-themed smart budget management application featuring proactive AI discipline, earning expansion nodes, and comparative market scouting.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
